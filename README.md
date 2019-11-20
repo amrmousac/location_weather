@@ -1,16 +1,32 @@
-# location_weather
+## location_weather
 
-A new Flutter project.
+### This app retrieve weather data depending on the location selected from the Map.
 
-## Getting Started
+#### powered by [Dark Sky API](https://darksky.net/dev)
 
-This project is a starting point for a Flutter application.
+#### packages used :
+   + [flutter_spinkit](https://pub.dev/packages/flutter_spinkit)
+   + [geolocator](https://pub.dev/packages/geolocator)
+   + [backdrop](https://pub.dev/packages/backdrop)
+   + [sliding_up_panel](https://pub.dev/packages/sliding_up_panel)
+   + [google_maps_flutter](https://pub.dev/packages/google_maps_flutter)
+   + [http](https://pub.dev/packages/http)
+   + [charts_flutter](https://pub.dev/packages/charts_flutter)
+   + [provider](https://pub.dev/packages/provider)
+   
+---
 
-A few resources to get you started if this is your first Flutter project:
+##### splash screen
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+   <img src="https://user-images.githubusercontent.com/41305917/69240737-c7557f80-0ba5-11ea-8472-f1a3c9142bf1.jpg" alt="splash screen image" width="240px" height="480px"> <img src="https://user-images.githubusercontent.com/41305917/69240950-49de3f00-0ba6-11ea-9be4-3bf950affa55.jpg" alt="splash screen dark image" width="240px" height="480px"> 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##### Google maps
+
+<img src="https://user-images.githubusercontent.com/41305917/69241274-25369700-0ba7-11ea-8227-35b601145bfd.jpg" alt="google maps image" width="240px" height="480px"><img src="https://user-images.githubusercontent.com/41305917/69241380-59aa5300-0ba7-11ea-9fc6-0f9008cc7a56.jpg" alt="google maps dark image" width="240px" height="480px">
+
+##### Weather data
+
+<img src="https://user-images.githubusercontent.com/41305917/69241514-a42bcf80-0ba7-11ea-973c-3b31ce8fa09d.jpg" alt="weather details image" width="240px" height="480px"><img src="https://user-images.githubusercontent.com/41305917/69241649-db9a7c00-0ba7-11ea-9e2d-f2fc0130da35.jpg" alt="weather details dark image" width="240px" height="480px">
+
+<img src="https://user-images.githubusercontent.com/41305917/69241740-0e447480-0ba8-11ea-997e-32593fff51c6.jpg" alt="weather details 2 image" width="240px" height="480px"><img src="https://user-images.githubusercontent.com/41305917/69241836-4ba90200-0ba8-11ea-9983-964114bba1f9.jpg" alt="weather details dark 2 image" width="240px" height="480px">
+
